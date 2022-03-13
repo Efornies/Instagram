@@ -50,14 +50,17 @@ img {
     border-bottom: gainsboro solid;
 }
 
-.imagen{  
-   display: flex;
+#container {
+     display: flex;
    
    align-items: center;
    padding-left: 25%;
     height: 300px;
-    width: 300px;   
+    width: 300px;  height: 200px;
+    width: 150px;
 }
+
+
 
 .piedefoto{
     padding-left: 2%;
